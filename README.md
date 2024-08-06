@@ -178,3 +178,4 @@ See Glue API reference at [REST API reference](https://docs.spryker.com/docs/res
 For contribution guidelines, see [Code contribution guide](https://docs.spryker.com/docs/code-contribution-guide#code-contribution-guide).
 # spryker-fontawesome
 # spryker-fontawesome
+# spryker-fontawesome
