@@ -9,6 +9,13 @@
 {%- block class -%}js-page-layout-main__side-drawer-container {{ pageLoadingClassName }}{%- endblock -%}
 
 {% block body %}
+    <i class="bi-alarm"></i>
+    <i class="fa fa-check-circle"></i> Circle
+    <i class="fa fa-baby-carriage"></i> Carriage
+    <i class="fas fa-pencil-alt"></i> pencil
+    <i class="fab fa-github"></i> GitHub
+
+    <i class="fa-solid fa-thumbs-up"></i>GitHub
     {% block sidebar %}
         {% embed organism('side-drawer') with {
             class: 'is-hidden-lg-xl',
